@@ -1,0 +1,13 @@
+{
+    "action": {
+        "default_icon": "test.png",
+        "default_popup": "bruh.html"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "manifest_version": 2,
+    "name": "PageMapper",
+    "version": "0.0"
+
+}
